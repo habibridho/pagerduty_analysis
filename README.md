@@ -12,8 +12,8 @@ Analyzes PagerDuty incidents for a service and determines how often an incident 
 
 ### Getting Your API Key
 
-1. Go to `https://<your-org>.pagerduty.com/api_keys`
-2. Click **Create New API Key**
+1. Go to your PagerDuty "My Profile" page
+2. Under the "User Settings" tab, click **Create API User Key**
 3. Give it a description (e.g., "L1/L2 Analysis") and create it
 4. Copy the key — it starts with `u+`
 
