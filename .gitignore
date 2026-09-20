@@ -1,2 +1,12 @@
 __pycache__
 *.csv
+
+# Environment & secrets
+.env
+.env.*
+*.env
+  
+# Python virtual environments
+.venv/
+venv/
+env/
